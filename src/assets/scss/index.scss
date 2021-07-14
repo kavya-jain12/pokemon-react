@@ -1,0 +1,13 @@
+.bg-btn-light {
+
+    color: #000000;
+    border-radius: 3px;
+    padding: 12px 50px;
+    background-color: #fbfbfb;
+    border: 1px solid #cecece;
+
+    &:focus {
+        box-shadow: none;
+        outline: none;
+    }
+}
